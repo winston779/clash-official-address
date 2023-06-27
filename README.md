@@ -42,8 +42,8 @@ Clash for Windows是针对 Windows 平台的Clash版本，它在 Windows 操作�
 
 ## 推荐阅读
 
-* [2023机场推荐](https://github.com/winston779/clash/blob/main/%E6%9C%80%E6%96%B0clash%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90.md)
-* [免费机场推荐](https://github.com/winston779/clash/blob/main/%E5%85%8D%E8%B4%B9clash%E6%9C%BA%E5%9C%BA%E8%AE%A2%E9%98%85%E9%93%BE%E6%8E%A5.md)
+* [2023最新机场推荐](https://clever99.com/latest-agent-recommendation)
+* [免费机场推荐](https://clever99.com/free-agent-subscription-recommendation)
 
 * [clash for windows使用教程](https://github.com/winston779/clash/blob/main/clash_for_windows%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.md)
 * [clashx for mac使用教程](https://github.com/winston779/clash/blob/main/clashx_for_mac%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.md)
